@@ -3,4 +3,4 @@
 Trabalho realizado para a disciplina de programação para dispositivos móveis, ministrada por Wellington Tuller Moraes no Instituto Federal de São Paulo, campus Cubatão.  
 
 ### Captura de tela da aplicação
-<img src="captura.gif" width="320" height="640"> 
+<img src="captura.gif" width="366" height="610"> 
