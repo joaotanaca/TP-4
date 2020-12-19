@@ -1,0 +1,16 @@
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csprojAssemblyReference.cache
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\MainPage.xaml.g.cs
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\NovoAlunoView.xaml.g.cs
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Kimochii\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
