@@ -1440,39 +1440,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kimochii\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/imac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB.iOS\\XF.LocalDB.iOS.csproj",
+      "projectUniqueName": "/Users/imac/Xamarin-TP-04/XF.LocalDB.iOS/XF.LocalDB.iOS.csproj",
       "projectName": "XF.LocalDB.iOS",
-      "projectPath": "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB.iOS\\XF.LocalDB.iOS.csproj",
-      "packagesPath": "C:\\Users\\Kimochii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB.iOS\\obj\\",
+      "projectPath": "/Users/imac/Xamarin-TP-04/XF.LocalDB.iOS/XF.LocalDB.iOS.csproj",
+      "packagesPath": "/Users/imac/.nuget/packages/",
+      "outputPath": "/Users/imac/Xamarin-TP-04/XF.LocalDB.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Kimochii\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/imac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB.csproj": {
-              "projectPath": "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB.csproj"
+            "/Users/imac/Xamarin-TP-04/XF.LocalDB/XF.LocalDB.csproj": {
+              "projectPath": "/Users/imac/Xamarin-TP-04/XF.LocalDB/XF.LocalDB.csproj"
             }
           }
         }

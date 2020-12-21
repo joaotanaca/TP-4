@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3CCCAF27-62EC-4F67-A1CA-74B1E9411988}|Default">
+  <MonoDevelop.Ide.ItemProperties.XF.LocalDB.Android PreferredExecutionTarget="Android.2575b3e9fd32" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XF.LocalDB.UWP/App.xaml.cs">
+    <Files>
+      <File FileName="XF.LocalDB/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XF.LocalDB/App.xaml" Line="1" Column="1" />
+      <File FileName="XF.LocalDB/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="XF.LocalDB.UWP/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="XF.LocalDB.UWP/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XF.LocalDB.UWP/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XF.LocalDB" expanded="True">
+            <Node name="XF.LocalDB" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XF.LocalDB.UWP" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

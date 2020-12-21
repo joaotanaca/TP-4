@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -94,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XF.LocalDB\XF.LocalDB.csproj">
-      <Project>{CE605CB5-793D-4D3D-8B9F-459D542773BF}</Project>
+      <Project>{56B6762A-20D9-4F93-A2E3-DCCEF2D125AB}</Project>
       <Name>XF.LocalDB</Name>
     </ProjectReference>
   </ItemGroup>

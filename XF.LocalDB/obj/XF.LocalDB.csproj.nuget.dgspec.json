@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB.csproj": {}
+    "/Users/imac/Xamarin-TP-04/XF.LocalDB/XF.LocalDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB.csproj": {
+    "/Users/imac/Xamarin-TP-04/XF.LocalDB/XF.LocalDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB.csproj",
+        "projectUniqueName": "/Users/imac/Xamarin-TP-04/XF.LocalDB/XF.LocalDB.csproj",
         "projectName": "XF.LocalDB",
-        "projectPath": "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB.csproj",
-        "packagesPath": "C:\\Users\\Kimochii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kimochii\\source\\repos\\XF.LocalDB\\XF.LocalDB\\obj\\",
+        "projectPath": "/Users/imac/Xamarin-TP-04/XF.LocalDB/XF.LocalDB.csproj",
+        "packagesPath": "/Users/imac/.nuget/packages/",
+        "outputPath": "/Users/imac/Xamarin-TP-04/XF.LocalDB/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kimochii\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/imac/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +67,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
